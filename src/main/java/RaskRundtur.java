@@ -34,5 +34,4 @@ public class RaskRundtur {
             "        { \"fra\": \"Teodor sitt hus\", \"til\": \"Erik sitt hus\", \"minutterGange\": 40 }\n" +
             "    ]\n" +
             "}";
-
 }
